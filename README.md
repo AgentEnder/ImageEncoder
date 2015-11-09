@@ -24,5 +24,7 @@ with an offset of 2 this becomes
   0000000
   
   0000000
+  
   7008009
+  
 and then is translated such that each zero is a random pixel from the original image. This will then be done again with the new image.
